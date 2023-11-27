@@ -225,7 +225,7 @@ const Page = () => {
           align="center"
           sx={{ pb: 2 }}
         >
-          <span ref={yearElement}></span> - example.com
+          <span ref={yearElement}></span> - rhorii.github.io
         </Typography>
       </div>
     </ThemeProvider>
